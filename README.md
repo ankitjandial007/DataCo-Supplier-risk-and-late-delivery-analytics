@@ -1,4 +1,4 @@
-# Delivery Risk Analytics: Where Do Late Deliveries Come From?
+# DataCo Delivery Risk Analytics: Where Do Late Deliveries Come From?
 
 An end-to-end analytics project on a global retailer's supply-chain data: Python cleaning and exploratory analysis, SQL Server analysis, a shipping-lane risk score, and a Power BI dashboard.
 
