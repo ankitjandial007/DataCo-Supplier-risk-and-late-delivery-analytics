@@ -1,0 +1,3 @@
+step,rows_before,rows_after,rows_removed,note
+Drop personal/empty columns + exact duplicates,180519,180519,0,Dropped 8 masked/empty/personal columns; removed exact duplicate rows
+Set aside cancelled shipments,180519,172765,7754,Shipping canceled rows excluded from late-rate analysis; saved to dataco_canceled.csv
