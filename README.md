@@ -13,7 +13,7 @@ This project analyses a global retailer's order data to find the causes of late 
 - **The problem is the delivery promise, not the delivery speed.** First Class promises 1 day and always takes 2. Second Class promises 2 days but takes 4, the same as Standard Class. Customers paying for faster shipping get no faster delivery.
 - **Location and product don't explain it.** Late rates stay in a narrow range across regions (52.6%–60.0%) and product categories (about 56%–60%).
 - **57.2% of sales (20.1M of 35.2M) are on late orders.** Profit margin is almost the same for late and on-time orders (10.6% vs 11.0%), so the real cost is customer trust and revenue at risk.
-- **Where to act first:** the riskiest shipping lane is [lane from query 5.3], and the top 5 lanes hold [X]% of all revenue on late orders. If every above-average lane matched the company average, about [X]M in sales would no longer be late.
+- **Where to act first:** the riskiest shipping lane is Western Europe | Second Class, and the top 5 lanes hold 14.74% of all revenue on late orders. If every above-average lane matched the company average, about 3.5M in sales would no longer be late.
 
 ![Late-delivery rate by shipping mode](Images/01_late_rate_by_mode.png)
 
@@ -52,7 +52,7 @@ File: `SQL_Analysis/SQL_Analysis.sql`
 - Re-checked every Python finding in SQL; all numbers matched
 - Ranked every shipping lane (region + shipping mode) from worst to best
 - Tracked the monthly late rate and its change from month to month
-- Found which product categories make up 80% of sales: [X] of [Y] categories
+- Found which product categories make up 80% of sales: 8 of 50 categories
 - Built a risk score (0–100) for each shipping lane, based on how often it's late, how much revenue it affects, how late its orders are, and how many late orders lose money
 
 ## Tools
