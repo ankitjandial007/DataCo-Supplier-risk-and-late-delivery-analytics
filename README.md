@@ -28,7 +28,7 @@ This project analyses a global retailer's order data to find the causes of late 
 
 ## Step 1: Data cleaning
 
-Notebook: `notebooks/01_cleaning.ipynb`
+Notebook: `Data_Cleaning/Data Cleaning.ipynb`
 
 - Removed duplicate rows and columns that were empty or held personal customer details
 - Converted dates into a proper date format
@@ -38,9 +38,9 @@ Notebook: `notebooks/01_cleaning.ipynb`
 
 ## Step 2: Exploratory analysis
 
-Notebook: `notebooks/02_eda.ipynb`
+Notebook: `EDA/EDA.ipynb`
 
-Looked at late deliveries by shipping mode, region, product category, month and customer type, compared promised vs actual delivery days, and measured how much revenue sits on late orders. All charts are in the `images/` folder.
+Looked at late deliveries by shipping mode, region, product category, month and customer type, compared promised vs actual delivery days, and measured how much revenue sits on late orders. All charts are in the `Images/` folder.
 
 ## Tools
 
