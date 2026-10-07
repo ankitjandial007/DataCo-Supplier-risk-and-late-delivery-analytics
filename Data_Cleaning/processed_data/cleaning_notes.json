@@ -1,0 +1,9 @@
+{
+  "encoding": "utf-8",
+  "profit_aggregation": "sum",
+  "rows_clean": 172765,
+  "orders_clean": 62897,
+  "rows_canceled": 7754,
+  "date_min": "2015-01-01",
+  "date_max": "2018-01-31"
+}
