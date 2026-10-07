@@ -14,9 +14,9 @@ This project analyses a global retailer's order data to find the causes of late 
 - **Location and product don't explain it.** Late rates stay in a narrow range across regions (52.6%–60.0%) and product categories (about 56%–60%).
 - **57.2% of sales (20.1M of 35.2M) are on late orders.** Profit margin is almost the same for late and on-time orders (10.6% vs 11.0%), so the real cost is customer trust and revenue at risk.
 
-![Late-delivery rate by shipping mode](images/01_late_rate_by_mode.png)
+![Late-delivery rate by shipping mode](Images/01_late_rate_by_mode.png)
 
-![Promised vs actual shipping days](images/02_promised_vs_actual.png)
+![Promised vs actual shipping days](Images/02_promised_vs_actual.png)
 
 ## Dataset
 
