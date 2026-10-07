@@ -24,7 +24,7 @@ This project analyses a global retailer's order data to find the causes of late 
 
 - After cleaning: 172,765 rows covering 62,897 orders, from January 2015 onwards
 - Each row is one product in an order, so one order can have several rows
-- The data file isn't in this repo because it's too large. Download it from the link above and save it in `data/raw/`.
+- The data file isn't in this repo because it's too large. Download it from the link above.
 
 ## Step 1: Data cleaning
 
