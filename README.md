@@ -25,7 +25,7 @@ This project analyses a global retailer's order data to find the causes of late 
 
 ## Dashboard
 
-File: `PowerBI/Delivery_Risk_Dashboard.pbix` · [PDF version](PowerBI/Delivery_Risk_Dashboard.pdf) ·
+File: `PowerBI/Delivery_Risk_Dashboard.pbix` · [PDF version](PowerBI/DataCo_PowerBI.pdf) ·
 
 | Page | What it shows |
 | --- | --- |
