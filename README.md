@@ -34,9 +34,9 @@ File: `PowerBI/Delivery_Risk_Dashboard.pbix` · [PDF version](PowerBI/Delivery_R
 | Risk Scorecard | Every shipping lane ranked by a 0–100 risk score, risk vs revenue scatter, top categories |
 | Lane Detail | Drill-through page: right-click any lane to see its trend, categories and cities |
 
-![Delivery performance](Images/dashboard_2_delivery.png)
+![Delivery performance](Images/dashboard_2_delivery_performance.png)
 
-![Risk scorecard](Images/dashboard_3_risk.png)
+![Risk scorecard](Images/dashboard_3_risk_scorecard.png)
 
 Built on a star schema (one order-line fact table with date, shipping mode, region and category lookup tables) and 20+ DAX measures.
 
