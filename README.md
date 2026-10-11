@@ -75,4 +75,4 @@ Four pages with synced filters, page navigation and a drill-through to lane deta
 
 ---
 
-**Ankit Jandial** · [LinkedIn](https://www.linkedin.com/in/ankit-jandial-655300159/)
+**Ankit Jandial** · [LinkedIn](www.linkedin.com/in/ankit-jandial)
